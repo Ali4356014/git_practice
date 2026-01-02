@@ -11,3 +11,4 @@
 [2026-01-02 02:45:23 PM] It’s not about perfection. It’s about progress.
 [2026-01-02 02:45:23 PM] Stay curious, keep learning.
 [2026-01-02 02:45:23 PM] Push yourself, because no one else is going to do it for you.
+[2026-01-02 02:45:23 PM] Consistency is more important than intensity.
